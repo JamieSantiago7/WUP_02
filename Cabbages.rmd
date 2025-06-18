@@ -38,9 +38,9 @@ veggy <- cabbages
 ```{r}
 boxplot(VitC~Cult,data=veggy)
 ```
-
-
 ### Numerical Descriptive Results
+
+It looks like c52 cultivation is producing way more VitC than c39. You can see that the bottom of c52 box is higher than the top of the c39 box.
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
