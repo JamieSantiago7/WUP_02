@@ -61,8 +61,10 @@ The first quantile of the c52 is 58. The third quantile of c39 data is 54.75.
 t.test(VitC~Cult,data=veggy)
 ```
 
-The p value is .00000003405. That is a really small number. With that information, it gives us results about the p-vaue and estimates about each group amd the c52 is greater than the vitamin c produced by c39.
+The p value is .00000003405. That is a really small number. With that information, it gives us results about the p-vaue and estimates about each group and the c52 is greater than the vitamin c produced by c39.
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+This is the second write up I have done and learned about plots, median, mean etc. I struggled a bit to learn the different methods and how they relate but am getting better along the way. After running everything, it is all conclusive that the c52 methodology produces much more vitamin c than c39.
